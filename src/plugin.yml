@@ -1,0 +1,10 @@
+name: HawkWarn
+version: 1.0
+main: me.hawk.main.main
+description: Warn players!
+
+commands:
+    warn:
+        usage: /<command> <player> <reason>
+        aliases: [w]
+        description: Warn a player.
